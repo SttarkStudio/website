@@ -1,0 +1,27 @@
+/*
++ Desenvolvido por: Studio Sttark
++ Código criado por: Alexandre Magno / Sérgio Silva / Luan Pontes
++
++
+*/
+
+html {
+  background-color: #f5f5f5;
+  font-family: Roboto, sans-serif;
+}
+
+footer p {
+  font-family: "Roboto Light", sans-serif;
+}
+
+.tarja-gradiente {
+  height: 8px;
+  weight: 100%;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff9b00+0,ff3165+100 */
+  background: rgb(255,155,0); /* Old browsers */
+  background: -moz-linear-gradient(left,  rgba(255,155,0,1) 0%, rgba(255,49,101,1) 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left,  rgba(255,155,0,1) 0%,rgba(255,49,101,1) 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right,  rgba(255,155,0,1) 0%,rgba(255,49,101,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff9b00', endColorstr='#ff3165',GradientType=1 ); /* IE6-9 */
+
+}
